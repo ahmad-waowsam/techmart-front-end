@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 
 1. Navigate to the project directory:
 ```bash
-cd "Front end/dashboard-app"
+cd "Front-end"
 ```
 
 2. Install dependencies:
